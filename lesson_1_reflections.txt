@@ -26,3 +26,7 @@ It makes us feel confident of our doings so that we can make changes with confid
 Now that you have your workspace set up, what do you want to try using Git for?
 
 I wanna try it to store and work with repostitories.
+
+How do the diagrams help you visualize the branch structure?
+
+They are very useful in understanding the branches.
