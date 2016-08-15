@@ -30,3 +30,7 @@ I wanna try it to store and work with repostitories.
 How do the diagrams help you visualize the branch structure?
 
 They are very useful in understanding the branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Manual merging helps in providing more access to users.
